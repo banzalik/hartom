@@ -96,11 +96,6 @@
     "disallowTrailingComma": true,
     "requireDotNotation": true,
     "excludeFiles": [
-        "node_modules",
-        ".bem/tmp",
-        "pages/**/*.bemdecl.js",
-        "pages/**/*.bemjson.js",
-        "pages/**/*.deps.js",
-        "pages/**/*.bh.js"
+        "node_modules"
     ]
 }
